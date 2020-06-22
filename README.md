@@ -3,7 +3,7 @@ Javascript practice, example coied from habr.com a author Anton Shevchuk\
 Russian translate\
 Line 0: после загрузки страницы (DOM is ready)\
 Line 1: привязываемся к событию click для элемента <a class="run">\
-Line 2: манипулируем элементом <div id="box"> - уменьшаем его прозрачность до\
+Line 2: манипулируем элементом \<div id="box"\> - уменьшаем его прозрачность до\
 0.1, наращиваем позицию left еще на 400px, со скоростью 1200 (milliseconds)\
 Line 3: затем медленно изменяем следующие параметры: opacity=0.4, top=160px,\
 height=20, width=20; скорость анимации указывается вторым параметром: "slow",\
