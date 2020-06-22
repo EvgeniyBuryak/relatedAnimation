@@ -1,7 +1,7 @@
 {
   "name": "relatedAnimation",
   "version": "1.0.0",
-  "description": "",
+  "description": "Javascript practice, example coied from habr.com a author Anton Shevchuk",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "jquery": "^3.5.1",
     "npm": "^6.14.5"
   },
   "devDependencies": {},
